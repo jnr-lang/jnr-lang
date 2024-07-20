@@ -2,11 +2,11 @@
 As a software engineer, I’m passionate about crafting innovative solutions and captivating designs. I bring a unique blend of technical expertise and creative flair to every project, aiming to bring your ideas to life
 
 ## Career Highlights  
-🏥 I’ve developed impactful software solutions that streamline operations and enhance user engagement, particularly in healthcare technology.
+🏥 - I’ve developed impactful software solutions that streamline operations and enhance user engagement, particularly in healthcare technology.
 
-🌈 Known for my passion for inclusive tech communities, I foster collaboration and innovation through open-source initiatives.
+🌈 - Known for my passion for inclusive tech communities, I foster collaboration and innovation through open-source initiatives.
 
-📈 My projects reflect a commitment to excellence and a drive to push technological boundaries for positive change.
+📈 - My projects reflect a commitment to excellence and a drive to push technological boundaries for positive change.
 
 ## What programming languages I like
 
@@ -18,9 +18,9 @@ Java and Python are always fun to code with. Especially when trying to solve alg
 
 ## 💞️ I’m looking to collaborate on any interesting and challenging projects.
 
-Open-source projects involving React.js, Vue.js, React Native, Ionic Vue and other modern JavaScript frameworks.
+- Open-source projects involving React.js, Vue.js, React Native, Ionic Vue and other modern JavaScript frameworks.
 
-Innovative mobile and web applications that can have a significant impact in tech industries.
+- Innovative mobile and web applications that can have a significant impact in tech industries.
 
 
 ## 🤙🏻 You can reach out
@@ -35,4 +35,4 @@ Feel free to contact me about the problems. I will try to help as much as I can 
 - My experience working remotely and collaborating with cross-functional teams to enhance user experience and system efficiency.
 
 ## ⚡ Fun fact
-I enjoy learning about different cultures and technologies, and I often combine these interests by developing applications that reflect my experiences and hobbies
+- I enjoy learning about different cultures and technologies, and I often combine these interests by developing applications that reflect my experiences and hobbies
