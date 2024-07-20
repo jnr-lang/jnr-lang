@@ -2,11 +2,11 @@
 As a software engineer, I’m passionate about crafting innovative solutions and captivating designs. I bring a unique blend of technical expertise and creative flair to every project, aiming to bring your ideas to life
 
 ## Career Highlights  
-🏥 - I’ve developed impactful software solutions that streamline operations and enhance user engagement, particularly in healthcare technology.
+🏥  I’ve developed impactful software solutions that streamline operations and enhance user engagement, particularly in healthcare technology.
 
-🌈 - Known for my passion for inclusive tech communities, I foster collaboration and innovation through open-source initiatives.
+🌈  Known for my passion for inclusive tech communities, I foster collaboration and innovation through open-source initiatives.
 
-📈 - My projects reflect a commitment to excellence and a drive to push technological boundaries for positive change.
+📈  My projects reflect a commitment to excellence and a drive to push technological boundaries for positive change.
 
 ## What programming languages I like
 
